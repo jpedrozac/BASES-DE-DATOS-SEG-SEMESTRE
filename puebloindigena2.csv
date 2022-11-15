@@ -1,0 +1,112 @@
+,CODIGO,DEPARTAMENTO,CODIGO_1,MUNICIPIO,POBLACION_TOTAL,PDP_MAYA,PDP_GARIFUNA,PDP_XINCA,PDP_AFRODESCENDIENTE/CREOLE/AFROMESTIZO,PDP_LADINA(O),PDP_EXTRANJERA(O)
+0,7,Solola,701,Solola,88612,83767,50,5,57,4705,28
+1,7,Solola,702,San Jose Chacaya,4068,3925,4,0,2,136,1
+2,7,Solola,703,Santa Maria Visitacion,2370,2322,4,0,1,40,3
+3,7,Solola,704,Santa Lucia Utatlan,21284,20623,6,4,76,568,7
+4,7,Solola,705,Nahuala,75430,75274,48,0,22,82,4
+5,7,Solola,706,Santa Catarina Ixtahuacan,56981,56838,25,2,2,113,1
+6,7,Solola,707,Santa Clara La Laguna,9405,9289,6,0,6,101,3
+7,7,Solola,708,Concepcion,6601,6578,4,1,6,12,0
+8,7,Solola,709,San Andres Semetabaj,13142,12129,22,2,73,899,17
+9,7,Solola,710,Panajachel,15077,11498,20,13,6,3345,195
+10,7,Solola,711,Santa Catarina Palopo,3924,3913,1,0,0,3,7
+11,7,Solola,712,San Antonio Palopo,14437,13690,0,1,0,735,11
+12,7,Solola,713,San Lucas Toliman,29772,27703,17,2,36,2002,12
+13,7,Solola,714,Santa Cruz La Laguna,5820,5781,9,1,1,7,21
+14,7,Solola,715,San Pablo La Laguna,7299,7276,12,0,1,4,6
+15,7,Solola,716,San Marcos La Laguna,2617,2548,1,0,0,35,33
+16,7,Solola,717,San Juan La Laguna,12162,11978,16,0,45,115,8
+17,7,Solola,718,San Pedro La Laguna,10705,10372,49,3,1,218,62
+18,7,Solola,719,Santiago Atitlan,41877,40791,93,1,31,905,56
+19,8,Totonicapan,801,Totonicapan,103952,100799,64,15,199,2825,50
+20,8,Totonicapan,802,San Cristobal Totonicapan,36119,33606,24,3,71,2394,21
+21,8,Totonicapan,803,San Francisco el Alto,57894,57182,34,17,10,637,14
+22,8,Totonicapan,804,San Andres Xecul,26984,26633,24,1,37,280,9
+23,8,Totonicapan,805,Momostenango,105617,104415,66,7,38,1057,34
+24,8,Totonicapan,806,Santa Maria Chiquimula,55013,54829,46,5,17,108,8
+25,8,Totonicapan,807,Santa Lucia La Reforma,22378,22297,12,1,5,63,0
+26,8,Totonicapan,808,San Bartolo Aguas Calientes,10612,10434,4,0,4,164,6
+27,12,San Marcos,1201,San Marcos,47063,1671,69,11,25,45207,80
+28,12,San Marcos,1202,San Pedro Sacatepequez,79158,11387,58,4,29,67562,118
+29,12,San Marcos,1203,San Antonio Sacatepequez,19100,7866,21,4,9,11175,25
+30,12,San Marcos,1204,Comitancillo,59489,59062,44,4,21,354,4
+31,12,San Marcos,1205,San Miguel Ixtahuacan,47301,46437,23,1,54,779,7
+32,12,San Marcos,1206,Concepcion Tutuapa,68148,66318,39,2,12,1755,22
+33,12,San Marcos,1207,Tacana,75788,7099,89,6,44,68455,95
+34,12,San Marcos,1208,Sibinal,15733,1212,7,0,11,14493,10
+35,12,San Marcos,1209,Tajumulco,50907,48843,28,4,26,2005,1
+36,12,San Marcos,1210,Tejutla,38669,4327,36,0,30,34255,21
+37,12,San Marcos,1211,San Rafael Pie de la Cuesta,17139,309,14,9,1,16782,24
+38,12,San Marcos,1212,Nuevo Progreso,30067,530,33,1,7,29477,19
+39,12,San Marcos,1213,El Tumbador,44395,1392,27,2,15,42936,23
+40,12,San Marcos,1214,San Jose el Rodeo,17881,146,9,1,2,17717,6
+41,12,San Marcos,1215,Malacatan,92816,4210,44,8,52,88432,70
+42,12,San Marcos,1216,Catarina,30014,990,18,1,18,28943,44
+43,12,San Marcos,1217,Ayutla,37049,656,22,3,10,36191,167
+44,12,San Marcos,1218,Ocos,10841,75,7,1,2,10742,14
+45,12,San Marcos,1219,San Pablo,48937,3058,27,4,35,45736,77
+46,12,San Marcos,1220,El Quetzal,23511,85,15,0,5,23398,8
+47,12,San Marcos,1221,La Reforma,17918,65,15,0,1,17826,11
+48,12,San Marcos,1222,Pajapita,21725,134,12,0,11,21528,40
+49,12,San Marcos,1223,Ixchiguan,22375,20170,13,1,12,2141,38
+50,12,San Marcos,1224,San Jose Ojetenam,19009,1612,18,0,6,17353,20
+51,12,San Marcos,1225,San Cristobal Cucho,16619,1707,6,0,1,14880,25
+52,12,San Marcos,1226,Sipacapa,20178,18498,8,6,8,1648,10
+53,12,San Marcos,1227,Esquipulas Palo Gordo,12892,447,20,2,29,12380,14
+54,12,San Marcos,1228,Rio Blanco,5318,1951,5,0,0,3355,7
+55,12,San Marcos,1229,San Lorenzo,13125,7675,11,0,15,5420,4
+56,12,San Marcos,1230,La Blanca,29112,161,19,1,4,28887,40
+57,13,Huehuetenango,1301,Huehuetenango,117818,8742,119,16,56,108575,310
+58,13,Huehuetenango,1302,Chiantla,87447,8223,92,2,156,78923,51
+59,13,Huehuetenango,1303,Malacatancito,19155,5752,17,1,11,13362,12
+60,13,Huehuetenango,1304,Cuilco,60395,11890,58,3,34,48372,38
+61,13,Huehuetenango,1305,Nenton,45679,35612,25,2,7,9998,35
+62,13,Huehuetenango,1306,San Pedro Necta,38510,31512,24,1,31,6939,3
+63,13,Huehuetenango,1307,Jacaltenango,37171,36325,17,1,33,752,43
+64,13,Huehuetenango,1308,San Pedro Soloma,49030,46985,40,1,93,1874,37
+65,13,Huehuetenango,1309,San Ildefonso Ixtahuacan,44424,41626,37,0,10,2746,5
+66,13,Huehuetenango,1310,Santa Barbara,33608,33257,24,6,3,317,1
+67,13,Huehuetenango,1311,La Libertad,38234,5897,24,0,357,31929,27
+68,13,Huehuetenango,1312,La Democracia,55434,25415,32,1,40,29903,43
+69,13,Huehuetenango,1313,San Miguel Acatan,27128,27042,19,0,1,56,10
+70,13,Huehuetenango,1314,San Rafael La Independencia,14149,14092,14,0,8,28,7
+71,13,Huehuetenango,1315,Todos Santos Cuchumatan,30186,26554,26,3,6,3593,4
+72,13,Huehuetenango,1316,San Juan Atitan,19418,19348,15,0,3,52,0
+73,13,Huehuetenango,1317,Santa Eulalia,39025,38887,25,0,15,98,0
+74,13,Huehuetenango,1318,San Mateo Ixtatan,43810,42798,39,0,23,934,16
+75,13,Huehuetenango,1319,Colotenango,34834,34300,17,0,10,507,0
+76,13,Huehuetenango,1320,San Sebastian Huehuetenango,32608,31220,19,2,16,1350,1
+77,13,Huehuetenango,1321,Tectitan,10830,2047,12,0,34,8725,12
+78,13,Huehuetenango,1322,Concepcion Huista,18915,17756,27,0,7,1123,2
+79,13,Huehuetenango,1323,San Juan Ixcoy,23204,21975,16,1,116,1093,3
+80,13,Huehuetenango,1324,San Antonio Huista,16697,4353,13,0,5,12311,15
+81,13,Huehuetenango,1325,San Sebastian Coatan,20905,20854,7,2,1,23,18
+82,13,Huehuetenango,1326,Santa Cruz Barillas,100849,86177,60,1,185,14416,10
+83,13,Huehuetenango,1327,Aguacatan,49607,43967,39,1,30,5561,9
+84,13,Huehuetenango,1328,San Rafael Petzal,11271,11002,5,0,4,259,1
+85,13,Huehuetenango,1329,San Gaspar Ixchil,8142,8122,1,0,0,19,0
+86,13,Huehuetenango,1330,Santiago Chimaltenango,10507,10464,5,0,1,35,2
+87,13,Huehuetenango,1331,Santa Ana Huista,9413,2823,9,0,2,6572,7
+88,13,Huehuetenango,1332,Union Cantinil,15900,681,3,0,5,15206,5
+89,13,Huehuetenango,1333,Petatan,6366,5173,4,0,2,1185,2
+90,14,Quiche,1401,Santa Cruz del Quiche,78279,65335,41,5,126,12728,44
+91,14,Quiche,1402,Chiche,29646,28766,15,3,4,857,1
+92,14,Quiche,1403,Chinique,11382,9235,5,0,0,2138,4
+93,14,Quiche,1404,Zacualpa,32750,31264,21,2,32,1422,9
+94,14,Quiche,1405,Chajul,46658,42627,40,2,45,3938,6
+95,14,Quiche,1406,Santo Tomas Chichicastenango,141567,139900,77,7,53,1478,52
+96,14,Quiche,1407,Patzite,6144,6046,0,0,6,91,1
+97,14,Quiche,1408,San Antonio Ilotenango,25590,25458,17,0,9,103,3
+98,14,Quiche,1409,San Pedro Jocopilas,31950,30207,23,0,4,1712,4
+99,14,Quiche,1410,Cunen,41455,37619,14,0,86,3736,0
+100,14,Quiche,1411,San Juan Cotzal,31532,30298,28,0,90,1108,8
+101,14,Quiche,1412,Joyabaj,82369,75295,41,4,45,6931,53
+102,14,Quiche,1413,Santa Maria Nebaj,72686,68612,46,0,191,3820,17
+103,14,Quiche,1414,San Andres Sajcabaja,24981,22251,7,0,11,2712,0
+104,14,Quiche,1415,San Miguel Uspantan,65872,54380,40,7,634,10804,7
+105,14,Quiche,1416,Sacapulas,52620,50813,18,1,30,1753,5
+106,14,Quiche,1417,San Bartolome Jocotenango,13568,13371,6,0,3,186,2
+107,14,Quiche,1418,Canilla,12172,5560,19,2,19,6553,19
+108,14,Quiche,1419,Chicaman,39731,31162,21,0,11,8536,1
+109,14,Quiche,1420,Playa Grande Ixcan,99470,76936,73,25,278,22102,56
+110,14,Quiche,1421,Pachalum,8839,1365,4,1,13,7442,14
